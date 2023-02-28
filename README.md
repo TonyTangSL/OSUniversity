@@ -6,10 +6,10 @@
 brief introduction
 
 ## Open Source Universities ：
-|    No.  | University    | 
-|---------|---------|
-| 1 |  [XXX University](https://github.com/TonyTangSL/XXXX)    |  
-| 2 |  [XXX University](https://github.com/TonyTangSL/XXXX)    |  
+|    No.  | University    |  OpenSource Club    | 
+|---------|---------|---------|
+| 1 | SUSTech University |  [SUSTech OpenSource Club](https://github.com/TonyTangSL/SUSTech-OSClub)    |  
+| 2 | XXXUniversity |  [XXX University](https://github.com/TonyTangSL/XXXX)    |  
 
 
 
