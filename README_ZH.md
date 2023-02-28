@@ -6,7 +6,7 @@
 简介
 
 ## 开源大学列表：
-|    No.  | 大学    | 
-|---------|---------|
-| 1 |  [XXX 大学](https://github.com/TonyTangSL/XXXX)    |  
-| 2 |  [XXX 大学](https://github.com/TonyTangSL/XXXX)    |  
+|    No.  | 大学    |  开源俱乐部    | 
+|---------|---------|---------|
+| 1 | 南方科技大学 |  [南方科技大学开源俱乐部](https://github.com/TonyTangSL/SUSTech-OSClub)    |  
+| 2 | XXX 大学 |  [XXX 大学开源俱乐部](https://github.com/TonyTangSL/XXXX)    |  
