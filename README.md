@@ -5,7 +5,7 @@
 ## About us
 brief introduction
 
-##Open Source Universities ：
+## Open Source Universities ：
 |    No.  | University    | 
 |---------|---------|
 | 1 |  [XXX University](https://github.com/TonyTangSL/XXXX)    |  
